@@ -1,1 +1,1 @@
-welcome to staging environment
+welcome to staging environments
